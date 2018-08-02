@@ -18,5 +18,7 @@
     /webpack.config.js
 
 使用： npm install
+      npm start
+打包： npm  run build:dev
 
 
