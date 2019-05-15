@@ -83,7 +83,7 @@ export default class Todoes extends React.PureComponent {
                     onRemove={this.onRemoveData} />
                 {/* 底部操作 */}
                 <Footer data={data} onSearch={this.onSearch} />
-            </Router>
+            </Router >
         )
     }
 }
